@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\X i 0\X i 0\bin\Debug\X i 0.exe.config
+C:\Users\Пользователь\source\repos\X i 0\X i 0\bin\Debug\X i 0.exe
+C:\Users\Пользователь\source\repos\X i 0\X i 0\bin\Debug\X i 0.pdb
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\X i 0.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\X i 0_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\X i 0.g.resources
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\X_i_0.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\X i 0.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\X i 0.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\X i 0.exe
+C:\Users\Пользователь\source\repos\X i 0\X i 0\obj\Debug\X i 0.pdb
